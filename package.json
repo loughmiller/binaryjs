@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "streamws": ">=0.1.1",
-    "binarypack": ">=0.0.4",
+    "binarypack": "git+https://github.com/loughmiller/node-binarypack.git#int64-unpack-fixes",
     "streamers": ">=0.1.0"
   },
   "devDependencies": {
